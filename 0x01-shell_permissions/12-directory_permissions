@@ -1,2 +1,2 @@
 #!/bin/bash
-mdir -m 751 dir_alx
+mdir -m 751 my_dir
